@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="288b6ae2-f8d4-4e97-951a-56c47eaa7c1a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/YouTube.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/YouTube.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="288b6ae2-f8d4-4e97-951a-56c47eaa7c1a" name="Default Changelist" comment="worked on footer to create a logos and bottom fields.">
       <change beforePath="$PROJECT_DIR$/newCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/newCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,12 +47,24 @@
       <option name="presentableId" value="Default" />
       <updated>1604538567383</updated>
       <workItem from="1604538568407" duration="2544000" />
-      <workItem from="1604541798919" duration="19777000" />
+      <workItem from="1604541798919" duration="20115000" />
     </task>
+    <task id="LOCAL-00001" summary="worked on footer to create a logos and bottom fields.">
+      <created>1604634125951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604634125951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="worked on footer to create a logos and bottom fields." />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on footer to create a logos and bottom fields." />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1604555997647">
@@ -67,9 +75,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="732" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604556009565" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604556038211">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604634088530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604556038211" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604634088530" />
   </component>
 </project>

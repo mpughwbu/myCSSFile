@@ -1,4 +1,4 @@
-html5doctor.com Reset Stylesheet
+/*html5doctor.com Reset Stylesheet
 v1.6.1
 Last Updated: 2010-09-17
 Author: Richard Clark - http://richclarkdesign.com
@@ -45,8 +45,7 @@ blockquote, q {
 
 blockquote:before, blockquote:after,
 q:before, q:after {
-    content:'';
-    content:none;
+
 }
 
 a {
@@ -129,7 +128,7 @@ header .header-brand {
 header nav ul  {
     display: block;
     margin: 0 auto;
-    width fit-content;
+    width: fit-content;
 }
 header nav ul li  {
     display: inline-block;
