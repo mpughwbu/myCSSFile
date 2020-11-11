@@ -157,15 +157,12 @@ header .header-cases {
         padding: 0px 20px 0px 40px;
         border-right: 3px solid #111;
         float: left;
-
     }
     header nav ul  {
 
         margin: 20px 0px 0px 20px;
         float: left;
-
     }
-
     header nav ul li a  {
         line-height: 60px;
     }
@@ -181,11 +178,12 @@ header .header-cases {
         margin-right: 40px;
         margin-top: 30px;
         padding: 0 20px;
-
-
     }
 }
 
+header .header-cases {
+    display: block;
+}
 
 /*Index*/
 
@@ -193,7 +191,6 @@ header .header-cases {
     width: 100%;
     height: calc(100vh - 100px);
     background-image: url("images/Sunrise.png");
-    background-color: tan;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -238,6 +235,34 @@ header .header-cases {
     text-align: center;
     text-transform: uppercase;
 }
+
+
+
+
+@media only screen and (min-width: 1000px)  {
+    .index-banner  {
+        height: 400px;
+    }
+
+    .index-banner h1  {
+        display: block;
+        width: 400px;
+        margin: 0 auto;
+    }
+    .index-links div {
+        margin: 10px 10px 0;
+        width: calc(100% - 32px);
+        height: 100px;
+        background-color: #cccccc;
+    }
+    .index-boxlink-rectangle  {
+
+    }
+    .index-boxlink-square  {
+
+    }
+}
+
 
 /* FOOTER */
 
